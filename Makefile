@@ -1,5 +1,5 @@
-NVCC	:= nvcc
-CC		:= g++
+NVCC := nvcc
+CC   := g++
 
 
 .PHONY: clean all cpp_out cuda_out
