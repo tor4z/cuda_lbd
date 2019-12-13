@@ -4,7 +4,7 @@
 
 using namespace std;
 
-#define N           1024
+#define N           100000
 #define RADIUS      3
 #define BLOCK_SIZE  16
 
